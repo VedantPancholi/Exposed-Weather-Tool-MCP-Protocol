@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+      "weather": {
+        "command": "C:\\Users\\vedant\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\uv.EXE",
+        "args": [
+          "run",
+          "--with",
+          "mcp[cli]",
+          "mcp",
+          "run",
+          "D:\\MCP\\mcpproject\\server\\weather.py"
+        ]
+      }
+    }
+  }
