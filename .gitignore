@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variables and secrets
+.env
+
+# Python version management
+.python-version
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
