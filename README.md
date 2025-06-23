@@ -44,6 +44,7 @@
 ---
 # 🖼️ Screenshot of Running Weather get_alert() Function 
 ![Screenshot 2025-06-19 224919](https://github.com/user-attachments/assets/fd7b570b-079d-46f1-ac00-420d63e98ee7)
+![image](https://github.com/user-attachments/assets/becc4dd6-435a-4ba4-b351-a5d2121aa2b5)
 
 
 ## 🔍 How It Works
