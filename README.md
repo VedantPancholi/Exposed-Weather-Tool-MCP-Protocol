@@ -4,6 +4,9 @@
 
 **MCP (Model Context Protocol)** is a powerful, flexible protocol for building **tool-augmented AI systems**. It enables you to expose Python functions as tools that can be accessed over different transports like **SSE**, **stdio**, or **HTTP**, allowing seamless interaction between servers, clients, and large language models (LLMs).
 
+![image](https://github.com/user-attachments/assets/7c8eaf52-ec7d-4781-9a5a-922b52b26515)
+
+
 ---
 
 ## 🧠 Project Highlights
